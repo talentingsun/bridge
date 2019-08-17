@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-dawanhe</folder>
+	<filename>3.bmp</filename>
+	<path>E:\zhiliao\ningxia\2017\4-dawanhe\3.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rebar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>78</ymin>
+			<xmax>86</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

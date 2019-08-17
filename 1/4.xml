@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-dawanhe</folder>
+	<filename>4.bmp</filename>
+	<path>E:\zhiliao\ningxia\2017\4-dawanhe\4.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>26</ymin>
+			<xmax>160</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>
